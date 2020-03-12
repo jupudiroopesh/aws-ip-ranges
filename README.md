@@ -2,7 +2,7 @@
 
 To run the script
 - Install ruby
-Run `ruby get_ip_ranges.rb pass_region_name`
+- Run `ruby get_ip_ranges.rb pass_region_name`
 
 **Validations**
 
